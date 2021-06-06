@@ -1,5 +1,5 @@
 # React-typescript-boilerplate
-Very basic React-TS boilerplate with webpack
+Very plain React-TS boilerplate with webpack
 
 To use template for your own project:
 1) Fork the repository to your GitHub.
