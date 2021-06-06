@@ -17,6 +17,6 @@ To use template for your own project:
 
 This repo is using prettier so make sure you have it installed as an extension on your IDE, or if you choose to, `npm i prettier` to have it installed locally to the project folder.
 
-You may edit the `.prettierrc.yml` file to your own rules, here is a link to the various [prettier rules](https://prettier.io/docs/en/options.html)
+You may edit the `.prettierrc.yml` file to your own rules, here is a link to the various [prettier rules.](https://prettier.io/docs/en/options.html)
 
 ### Please reach out to me if you spot any errors! Happy coding!
