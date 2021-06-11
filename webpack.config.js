@@ -12,6 +12,7 @@ const htmlPlugin = new HtmlWebPackPlugin({
 module.exports = {
     // Our application's entry point.
     entry: './src/index.tsx',
+    mode: 'development',
 
     /*These rules define how to deal with files with given extensions. 
     For example: .tsx files will be compiled with ts-loader, 
